@@ -25,7 +25,7 @@ The insights from this analysis informed the design of the Tableau dashboard, en
 - Revenue has an upward trend over time, signifying positive business growth.
 
 ## Dashboard
-![Coffee Shop Performance Dashboard](Dashboard\dashboard_photo.png)
+![Coffee Shop Performance Dashboard](Dashboard/dashboard_photo.png)
 *Image of the dashboard from Tableau*
 
 ### Here is a link to this dashboard:
