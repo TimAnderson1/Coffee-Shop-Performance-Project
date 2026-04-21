@@ -31,9 +31,6 @@ The insights from this analysis informed the design of the Tableau dashboard, en
 ### Here is a link to this dashboard:
 [Dashboard on Tableau Public](https://public.tableau.com/app/profile/tim.anderson5782/viz/CoffeeShopPerformanceAnalysis/Dashboard1?publish=yes)
 
-## How I approached the analysis
-So I first aimed to understand the data by looking at the columns and the data within each one using SQL. I could then take the four business questions and accurately answer them, this gave me some insights into trends and metrics within the data. These outputs informed the structure of my dashboard in Tableau, specifically understanding which charts accurately explain the data and what information needs to be highlighted. I then thought about what KPIs would be useful to have displayed on the dashboard and added them to it.
-
 ## SQL Analysis
 ### I want to show my queries and their outputs so that you understand the process I have taken to reach my final analysis.
 
