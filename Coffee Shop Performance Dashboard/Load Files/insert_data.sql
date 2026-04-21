@@ -1,0 +1,3 @@
+COPY coffee_data (transaction_id, transaction_date, transaction_time, transaction_qty, store_id, store_location, product_id, unit_price, product_category, product_type, product_detail)
+FROM 'C:\\Users\\TJAnd\\OneDrive\\Data Analytics\\Data Projects 04.26\\Coffee Shop Performance Dashboard\\CSV File\\Coffee Shop Sales - Transactions.csv'
+WITH(FORMAT csv, HEADER true, DELIMITER ',', NULL '', ENCODING UTF8);
